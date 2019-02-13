@@ -1,6 +1,6 @@
-# flask_import_news
+# API method to retrieve news from News sites using Python.
 
-It stores top three news from 
+It stores top three news from below sites to Mysql Database via API method (flask).
 
 1. www.ndtv.com
 2. timesofindia.indiatimes.com
